@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 
 import breanne from "../images/breanne.jpg";
 
+import './index.scss';
+
 const AboutPicture = ({src}) => (
   <figure className="image">
     <img

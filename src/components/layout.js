@@ -26,12 +26,16 @@ const Layout = ({children}) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title}/>
-          <main>{children}</main>
-          <footer class="footer">
-            © {new Date().getFullYear()}, Built by
-            {` `}
-            <a href="http://mpwoz.com">@mpwoz</a>
-          </footer>
+        <main>{children}</main>
+        <footer className="footer">
+          <section className="section">
+            <div className="container" style={{color:`#aaa`}}>
+              © {new Date().getFullYear()}, Built by
+              {` `}
+              <a style={{color:`#aaa`}} href="http://mpwoz.com">@mpwoz</a>
+            </div>
+          </section>
+        </footer>
       </>
     )}
   />

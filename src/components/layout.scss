@@ -1,4 +1,4 @@
-@import 'pallette.scss';
+@import '../styles/pallette';
 
 // Update bulma globals
 $primary: $color3;
@@ -14,19 +14,4 @@ body {
 
 @import '~bulma/bulma.sass';
 
-
-.about-me {
-  img {
-    padding: 20px;
-  }
-}
-
-.contact-form {
-  background: $color3;
-
-}
-
-.four-corners {
-  background: $color2;
-}
 
