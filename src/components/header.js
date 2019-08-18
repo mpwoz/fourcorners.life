@@ -17,7 +17,7 @@ const Logo = (props) => (<img className="logo-image"
 const BackgroundSection = ({className, children}) => (
   <StaticQuery query={graphql`
       query {
-        desktop: file(relativePath: { eq: "tina.jpg" }) {
+        desktop: file(relativePath: { eq: "breanne2.jpg" }) {
           childImageSharp {
             fluid(quality: 90, maxWidth: 4160) {
               ...GatsbyImageSharpFluid_withWebp
