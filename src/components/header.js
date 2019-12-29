@@ -1,18 +1,12 @@
 import { graphql, StaticQuery } from "gatsby";
+import BackgroundImage from 'gatsby-background-image'
 import PropTypes from "prop-types"
 import React from "react"
+import { Link } from "gatsby"
 
 import { Instagram } from 'react-feather'
 
-import logo from "../images/logo.jpg";
-import BackgroundImage from 'gatsby-background-image'
-
 import './header.scss';
-import Image from "./image";
-
-const Logo = (props) => (<img className="logo-image"
-                              {...props} />);
-
 
 const BackgroundSection = ({className, children}) => (
   <StaticQuery query={graphql`
@@ -49,9 +43,10 @@ const Header = ({siteTitle}) => (
       <div className="container">
         <div className="navbar-menu">
           <div className="navbar-start">
-            <a className="navbar-item"> About </a>
-            <a className="navbar-item"> Blog </a>
-            <a className="navbar-item"> Contact </a>
+            <Link className="navbar-item" to="/">Home</Link>
+            {/*<Link className="navbar-item" to="/">About</Link>*/}
+            <Link className="navbar-item" to="/blog">Blog</Link>
+            {/*<Link className="navbar-item" to="/">Contact</Link>*/}
           </div>
 
           <div className="navbar-end">
@@ -80,14 +75,14 @@ const Header = ({siteTitle}) => (
     </section>
 
   </>
-)
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+};
 
 Header.defaultProps = {
   siteTitle: ``,
-}
+};
 
 export default Header
