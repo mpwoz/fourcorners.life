@@ -2,6 +2,8 @@ import React, { Component } from "react"
 import { Link } from "gatsby"
 import { useSpring, animated as a } from 'react-spring'
 
+import "./Card.scss"
+
 
 export class Card extends Component {
   render() {

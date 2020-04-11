@@ -7,10 +7,12 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { StaticQuery, graphql } from "gatsby"
+import { graphql, StaticQuery } from "gatsby"
 
 import Header from "./header"
 import "./layout.scss"
+
+import { CallToAction } from "../pages/CallToAction"
 
 const Layout = ({children}) => (
   <StaticQuery
@@ -30,6 +32,8 @@ const Layout = ({children}) => (
         <footer className="footer">
           <section className="section">
             <div className="container" style={{color:`#aaa`}}>
+
+              <CallToAction/>
               © {new Date().getFullYear()}, Built by
               {` `}
               <a style={{color:`#aaa`}} href="http://mpwoz.com">@mpwoz</a>
