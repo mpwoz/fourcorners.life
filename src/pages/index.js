@@ -1,41 +1,21 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
-import breanne from "../images/breanne.jpg";
+import breanne from "../images/breanne.jpg"
 
-import './index.scss';
+import "./index.scss"
+import * as Icon from "react-feather"
+import { Card } from "./Card"
 
-const AboutPicture = ({src}) => (
+const AboutPicture = ({ src }) => (
   <figure className="image">
     <img
       className="is-rounded"
       src={src}/>
   </figure>
-);
-
-const Card = (props) => (
-  <div className="card">
-    <div className="card-content">
-      <p className="title">
-        {props.title}
-      </p>
-      <p className="subtitle">
-        {props.body}
-      </p>
-    </div>
-    <footer className="card-footer">
-      <p className="card-footer-item">
-      <span>
-        <Link to={"/learn/"}>Learn more</Link>
-      </span>
-      </p>
-    </footer>
-  </div>
-);
+)
 
 const ContactForm = () => (
   <div>
@@ -50,11 +30,12 @@ const ContactForm = () => (
       </div>
     </div>
   </div>
-);
+)
 
 const cardContent = [
   {
     title: "Individuality",
+    icon: Icon.User,
     body: (
       <div>
         <p> Besides a few key components of nutrition, there simply is not enough understanding of the human body at
@@ -66,10 +47,11 @@ const cardContent = [
           get you on level footing so that you can make clear and conscious nutrition choices for yourself moving
           forward for years to come.</p>
       </div>
-    )
+    ),
   },
   {
     title: "Sustainability",
+    icon: Icon.Wind,
     body: (
       <div>
         <p>Once you are making choices for yourself, it’s time to consider the impact that you have on the world around
@@ -80,10 +62,11 @@ const cardContent = [
           accessible to all in years to come? I hope you feel a sense of proud responsibility coming out of this program
           and moving forward!</p>
       </div>
-    )
+    ),
   },
   {
     title: "Movement",
+    icon: Icon.TrendingUp,
     body:
       (<div>
 
@@ -94,10 +77,11 @@ const cardContent = [
         <p>If you are interested in diving into the practice of yoga, I’m also happy to take those teachings further.
           Group session classes or private lessons are available any time including the study beyond Asana (physical
           practices)</p>
-      </div>)
+      </div>),
   },
   {
     title: "Spirituality",
+    icon: Icon.Heart,
     body:
       (<div>
 
@@ -107,9 +91,9 @@ const cardContent = [
           capability to start moving our lives toward our dreams.</p>
         <p>This work is so much more than food choices, workouts or yoga poses. It is about becoming who you were meant
           to be in this lifetime and realizing full potential.</p>
-      </div>)
+      </div>),
   },
-];
+]
 
 const CallToAction = () => (
   <div className="section contact-form">
@@ -147,7 +131,7 @@ const IndexPage = () => (
               She has seen firsthand the connection of movement, food, spirituality and purpose to happiness and
               prosperity.
             </p>
-            <Link to="/about/">Click for more -></Link>
+            {/*<Link to="/about/">Click for more -></Link>*/}
           </div>
 
         </div>

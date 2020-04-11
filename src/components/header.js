@@ -50,8 +50,8 @@ const Header = ({siteTitle}) => (
           </div>
 
           <div className="navbar-end">
-            <a href="http://instagram.com" style={{paddingTop: `8px`}}>
-              <Instagram strokeWidth={1.5}/>
+            <a href="https://www.instagram.com/breanne.means.strong/" style={{paddingTop: `8px`}}>
+              <Instagram strokeWidth={1.5} size={48}/>
             </a>
           </div>
 
