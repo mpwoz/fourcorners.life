@@ -14,7 +14,7 @@ const ContactForm = () => (
     </div>
   </div>
 )
-export const CallToAction = () => (
+const CallToAction = (props) => (
   <div className="section contact-form">
     <div className="container">
       <h1 className="title">
@@ -24,3 +24,5 @@ export const CallToAction = () => (
     </div>
   </div>
 )
+
+export default CallToAction

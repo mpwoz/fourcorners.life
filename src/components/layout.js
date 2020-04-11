@@ -12,7 +12,7 @@ import { graphql, StaticQuery } from "gatsby"
 import Header from "./header"
 import "./layout.scss"
 
-import { CallToAction } from "../pages/CallToAction"
+import CallToAction from "./CallToAction"
 
 const Layout = ({children}) => (
   <StaticQuery

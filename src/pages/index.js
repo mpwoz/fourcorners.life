@@ -6,9 +6,9 @@ import SEO from "../components/seo"
 import breanne from "../images/breanne.jpg"
 
 import "./index.scss"
-import { Card } from "./Card"
-import { cardContent } from "./cardContent"
-import { CallToAction } from "./CallToAction"
+import Card from "../components/Card"
+import { cardContent } from "../components/cardContent"
+import CallToAction from "../components/CallToAction"
 
 const AboutPicture = ({ src }) => (
   <figure className="image">

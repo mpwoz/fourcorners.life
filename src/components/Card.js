@@ -5,7 +5,7 @@ import { useSpring, animated as a } from 'react-spring'
 import "./Card.scss"
 
 
-export class Card extends Component {
+export default class Card extends Component {
   render() {
     let { title, body, icon } = this.props
 

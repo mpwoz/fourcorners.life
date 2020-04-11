@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import { Link } from "gatsby"
 import React from "react"
 
-import { cardContent } from "./cardContent"
+import { cardContent } from "../components/cardContent"
 
 const LearnPage = ({ data, location }) => {
 
