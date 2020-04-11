@@ -11,7 +11,7 @@ import './header.scss';
 const BackgroundSection = ({className, children}) => (
   <StaticQuery query={graphql`
       query {
-        desktop: file(relativePath: { eq: "breanne2.jpg" }) {
+        desktop: file(relativePath: { eq: "sunset-yoga.png" }) {
           childImageSharp {
             fluid(quality: 90, maxWidth: 4160) {
               ...GatsbyImageSharpFluid_withWebp
