@@ -7,40 +7,50 @@ import SEO from "../components/seo"
 const toBlogPostList = allMarkdownRemark =>
   <ul>
     {allMarkdownRemark.edges
-      .map(({node}) => (
+      .map(({ node }) => (
         <li>
-          <Link to={node.fields.slug}>
-            {node.frontmatter.title}
-          </Link>
+          <div className="container">
+            <Link to={node.fields.slug}>
+              <h1 className="is-size-3">
+                {node.frontmatter.title}
+              </h1>
+              <h2 className="is-size-5">
+                {node.frontmatter.date}
+              </h2>
+            </Link>
+          </div>
         </li>
       ))}
-  </ul>;
+  </ul>
 
-const BlogPage = ({data, location}) => (
+const BlogPage = ({ data, location }) => (
   <Layout>
     <SEO title="Blog"/>
-    <h1>Blog posts:</h1>
-    {toBlogPostList(data.allMarkdownRemark)}
-    <Link to="/">Go back to the homepage</Link>
+    <div className="container">
+
+      <h1 className={"title"}>Blog posts:</h1>
+      {toBlogPostList(data.allMarkdownRemark)}
+      {/*<Link to="/">Go back to the homepage</Link>*/}
+    </div>
   </Layout>
 )
 
 export const pageQuery = graphql`
-query Blog {
-  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
-    edges {
-      node {
-        fields {
-          slug
+    query Blog {
+        allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+            edges {
+                node {
+                    fields {
+                        slug
+                    }
+                    frontmatter {
+                        date(formatString: "MMMM DD, YYYY")
+                        title
+                    }
+                }
+            }
         }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-        }
-      }
     }
-  }
-}
-`;
+`
 
 export default BlogPage

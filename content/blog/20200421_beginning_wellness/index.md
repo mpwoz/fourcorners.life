@@ -1,3 +1,9 @@
+---
+title: "Beginning Wellness"
+date: "2020-04-21"
+description: "Beginning Wellness"
+---
+
 Hi squad!
 
 I have a feeling I have written some similar advice down before but in transitioning over to my Four Corners space on the internet, wanted to apply some fresh perspective to my thoughts on starting off on your healthy lifestyle journey. We’re a few weeks away from the kickoff of the 6 Week Summer Tone Up, and since a lot of you know me through TIU, thought there is no better timing than now for addressing some of the FAQs around these challenges.

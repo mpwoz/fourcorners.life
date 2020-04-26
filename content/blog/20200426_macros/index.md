@@ -1,3 +1,9 @@
+---
+title: "Macros"
+date: "2020-04-26"
+description: "Macros"
+---
+
 Hello world! I have been wanting to introduce you to my new Four Corners Health brand for a long time but this time collective pause in quarantine was kind of the thing that pushed me over the edge to really put the keys to the board and make it happen. 
 
 I’ll be introducing you to my long-term plans soon and you can poke around the website as it stands to get an idea of who I am and what I offer. I imagine many of you already know me because we are connected through work, Tone It Up/Instagram or long-term friends. Some of you have known how passionate I have been about improving our food system for years (I even worked for an online farmer’s market in Seattle that was truly ahead of it’s time! I’ve been imagining Farmigo in the age of COVID-19 and wow — would things have been different) 

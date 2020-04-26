@@ -6,9 +6,36 @@ import SEO from "../components/seo"
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.markdownRemark;
-    const siteTitle = this.props.data.site.siteMetadata.title;
-    const {previous, next} = this.props.pageContext;
+    const post = this.props.data.markdownRemark
+    const siteTitle = this.props.data.site.siteMetadata.title
+    const { previous, next } = this.props.pageContext
+
+    let nav = <nav>
+      <ul
+        style={{
+          display: `flex`,
+          flexWrap: `wrap`,
+          justifyContent: `space-between`,
+          listStyle: `none`,
+          padding: 0,
+        }}
+      >
+        <li>
+          {previous && (
+            <Link to={previous.fields.slug} rel="prev">
+              ← {previous.frontmatter.title}
+            </Link>
+          )}
+        </li>
+        <li>
+          {next && (
+            <Link to={next.fields.slug} rel="next">
+              {next.frontmatter.title} →
+            </Link>
+          )}
+        </li>
+      </ul>
+    </nav>
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -16,54 +43,36 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
-        <article>
-          <header>
-            <h1
-              style={{
-                marginBottom: 0,
-              }}
-            >
-              {post.frontmatter.title}
-            </h1>
-            <p
-              style={{
-                display: `block`
-              }}
-            >
-              {post.frontmatter.date}
-            </p>
-          </header>
-          <section dangerouslySetInnerHTML={{__html: post.html}}/>
-          <footer>
-          </footer>
-        </article>
+        <div className="section">
+          <div className="container">
 
-        <nav>
-          <ul
-            style={{
-              display: `flex`,
-              flexWrap: `wrap`,
-              justifyContent: `space-between`,
-              listStyle: `none`,
-              padding: 0,
-            }}
-          >
-            <li>
-              {previous && (
-                <Link to={previous.fields.slug} rel="prev">
-                  ← {previous.frontmatter.title}
-                </Link>
-              )}
-            </li>
-            <li>
-              {next && (
-                <Link to={next.fields.slug} rel="next">
-                  {next.frontmatter.title} →
-                </Link>
-              )}
-            </li>
-          </ul>
-        </nav>
+            {nav}
+
+            <article>
+              <header>
+                <h1
+                  style={{
+                    marginBottom: 0,
+                  }}
+                >
+                  {post.frontmatter.title}
+                </h1>
+                <p
+                  style={{
+                    display: `block`,
+                  }}
+                >
+                  {post.frontmatter.date}
+                </p>
+              </header>
+              <section dangerouslySetInnerHTML={{ __html: post.html }}/>
+              <footer>
+              </footer>
+            </article>
+
+            {nav}
+          </div>
+        </div>
       </Layout>
     )
   }
@@ -72,21 +81,21 @@ class BlogPostTemplate extends React.Component {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
-    site {
-      siteMetadata {
-        title
-      }
+    query BlogPostBySlug($slug: String!) {
+        site {
+            siteMetadata {
+                title
+            }
+        }
+        markdownRemark(fields: { slug: { eq: $slug } }) {
+            id
+            excerpt(pruneLength: 160)
+            html
+            frontmatter {
+                title
+                date(formatString: "MMMM DD, YYYY")
+                description
+            }
+        }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      excerpt(pruneLength: 160)
-      html
-      frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
-        description
-      }
-    }
-  }
-`;
+`
