@@ -74,13 +74,16 @@ const IndexPage = () => (
 
           <div className="column">
             <b>
-              Pricing structure:
+              Pricing
             </b>
-            <ul>
-              <li>1 month - $75</li>
-              <li>2 month - $125</li>
-              <li>3 months - $150</li>
-            </ul>
+            <p>
+              1 month package starting at $150
+            </p>
+            {/*<ul>*/}
+            {/*  <li>1 month - $75</li>*/}
+            {/*  <li>2 month - $125</li>*/}
+            {/*  <li>3 months - $150</li>*/}
+            {/*</ul>*/}
           </div>
 
         </div>
