@@ -23,6 +23,9 @@ const CallToAction = (props) => (
         Interested in more information and a free email consultation? Get in touch!
       </h1>
       <ContactForm/>
+      <p>
+        Or, if you prefer, email me directly at <a href="mailto:bre@fourcorners.life">bre@fourcorners.life</a>
+      </p>
     </div>
   </div>
 )
