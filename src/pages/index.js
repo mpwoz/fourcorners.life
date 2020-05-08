@@ -50,6 +50,39 @@ const IndexPage = () => (
       </div>
     </div>
 
+    <CallToAction/>
+
+
+    <div className="section four-corners">
+      <div className="container">
+        <h1 className="title">
+          The Four Corners
+        </h1>
+        <div className="columns">
+
+          <div className="container">
+            <div className="column">
+              <Card {...cardContent[0]}/>
+            </div>
+            <div className="column">
+              <Card {...cardContent[1]}/>
+            </div>
+          </div>
+
+          <div className="container">
+            <div className="column">
+              <Card {...cardContent[2]}/>
+            </div>
+            <div className="column">
+              <Card {...cardContent[3]}/>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
     <div className="section contact-form">
       <div className="container">
         <h1 className="title">
@@ -88,38 +121,6 @@ const IndexPage = () => (
 
         </div>
 
-      </div>
-    </div>
-
-    <CallToAction/>
-
-
-    <div className="section four-corners">
-      <div className="container">
-        <h1 className="title">
-          The Four Corners
-        </h1>
-        <div className="columns">
-
-          <div className="container">
-            <div className="column">
-              <Card {...cardContent[0]}/>
-            </div>
-            <div className="column">
-              <Card {...cardContent[1]}/>
-            </div>
-          </div>
-
-          <div className="container">
-            <div className="column">
-              <Card {...cardContent[2]}/>
-            </div>
-            <div className="column">
-              <Card {...cardContent[3]}/>
-            </div>
-          </div>
-
-        </div>
       </div>
     </div>
 
