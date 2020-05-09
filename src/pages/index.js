@@ -106,17 +106,11 @@ const IndexPage = () => (
           </div>
 
           <div className="column">
-            <b>
-              Pricing
-            </b>
-            <p>
-              1 month package starting at $150
-            </p>
-            {/*<ul>*/}
-            {/*  <li>1 month - $75</li>*/}
-            {/*  <li>2 month - $125</li>*/}
-            {/*  <li>3 months - $150</li>*/}
-            {/*</ul>*/}
+            {/*
+            <b> Pricing </b>
+            <p> 1 month package starting at $150 </p>
+            */}
+            Currently not taking individual clients but if you are interested in a 2020 summer, small group accountability (max. 8 people) please email bre@fourcorners.life or submit your email in the form below.
           </div>
 
         </div>
