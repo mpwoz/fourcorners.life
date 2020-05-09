@@ -4,16 +4,27 @@ import "./CallToAction.scss"
 
 const ContactForm = () => (
   <div>
-    <div class="field has-addons">
-      <div class="control">
-        <input class="input" type="text" placeholder="Your Email"/>
+
+
+    <form
+      action="https://formspree.io/xwkrppbe"
+      method="POST"
+    >
+      <div className="field has-addons">
+        <div className="control">
+          <input className="input" type="text" placeholder="Your Email" name="_replyto"/>
+        </div>
+        <div className="control">
+          <button type="submit" className="button is-info">
+            Submit
+          </button>
+        </div>
       </div>
-      <div class="control">
-        <a class="button is-info">
-          Submit
-        </a>
-      </div>
-    </div>
+    </form>
+
+
+
+
   </div>
 )
 const CallToAction = (props) => (
