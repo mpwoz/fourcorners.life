@@ -1,7 +1,6 @@
 ---
 title: "Macros"
 date: "2020-04-26"
-description: "Macros"
 ---
 
 Hello world! I have been wanting to introduce you to my new Four Corners Health brand for a long time but this time collective pause in quarantine was kind of the thing that pushed me over the edge to really put the keys to the board and make it happen. 

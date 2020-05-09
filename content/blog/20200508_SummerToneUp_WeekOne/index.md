@@ -1,3 +1,8 @@
+---
+title: "Summer Tone Up: Week 1"
+date: "2020-05-09"
+---
+
 Welcome to Week 1 of the 2020 Summer Tone Up! I’m so excited to share some tips and trips on how to make the Nutrition Plan work for you. If at any time you have questions that come up, please feel free to reach out. 
 
 Once again, I am not affiliated with TIU in any way but I standby their nutrition principles and so many of the recipes! They have truly changed my life and I’m confident that you can take the best parts of the program and apply it to yours as well. 

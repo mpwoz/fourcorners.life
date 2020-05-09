@@ -1,7 +1,6 @@
 ---
 title: "Beginning Wellness"
 date: "2020-04-21"
-description: "Beginning Wellness"
 ---
 
 Hi squad!

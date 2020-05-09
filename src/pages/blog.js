@@ -4,12 +4,14 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import "./blog.scss"
+
 const toBlogPostList = allMarkdownRemark =>
   <ul>
     {allMarkdownRemark.edges
       .map(({ node }) => (
         <li>
-          <div className="container">
+          <div className="blogpost container">
             <Link to={node.fields.slug}>
               <h1 className="is-size-3">
                 {node.frontmatter.title}

@@ -1,7 +1,6 @@
 ---
 title: "The Bulletproof Diet Review"
 date: "2020-05-06"
-description: "Review of the Bulletproof Diet by Asprey"
 ---
 
 Hey Four Corners fam!
