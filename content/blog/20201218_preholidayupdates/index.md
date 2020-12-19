@@ -6,7 +6,11 @@ Once again so much time has passed since my last blog post! Four Corners has bee
 
 I had promised a list of Seattle pandemic-proof Christmas activities but here we are already at the 18th! We landed on digital streams of Pacific Northwest Ballet’s The Nutcracker, Spanaway Fantasy Lights (I grew up doing this! Hidden regional gem!), tons of movies (I finally watched the 2019 *Little Women* and just loved it! But craving the 90s version), making pierogi, which is a feature of Polish *Wigilia*, and of course sending gifts to friends and family near and far. 
 
+![Pierogi Making in 2019](./IMG_4368.jpeg) 
+
 We just received the rest of our wedding photos so we have been enjoying going through all of them and picking some out for what will inevitably be a belated-Christmas gift follow up with thank-you cards needing to go out still too! 
+
+![We're married!](./Breanne and Martin - Wedding Day-361.jpg) 
 
 As we get closer to January 2021, I wanted to touch on a few thoughts that have come out of the experience of doing this yoga challenge. First of all, I am hoping to lead challenges in the future but transparently, it was a *ton* of work and with hoping to pull of something a bit more polished in the future, I am not going to jump into offering anything in early January. Plus I think there is a ton of great exercise content out there already to choose from for your new year kickoff!
 
@@ -19,6 +23,8 @@ On the topic of nutrition, since this week is our Third-Eye Chakra week in O4TH,
 While I’m not an expert on the topic, I would say at this point I have reached what feels like my comfort zone of Intuitive Eating. From intuitiveeating.org “Intuitive Eating is a self-care eating framework, which integrates instinct, emotion, and rational thought and was created by two dietitians, Evelyn Tribole and Elyse Resch in 1995.” It includes 10 Principles and while I won’t go into detail here on how I have or have not applied each to my routine these days, I’ll summarize.
 
 After years of building, building, building habits and seeing the changes that it brought to my life, I can sit back a bit and trust that I know what works for me. I notice my hunger cues and cravings and I honor them. Sometimes that means getting up to grab some water or going for a walk and sometimes it means making a chocolate cake and enjoying every bite of my slice or two. Most of the time I’m eating balanced meals with plenty of veggies and lean proteins, but I have found that I thrive with more carbohydrates than some people and I don’t need to restrict them for performance or physique reasons. 
+
+![Salt and Straw](./IMG_6310.jpeg) 
 
 In short, every “nutrition rule” out there, I have learned to take through the lens, **but does this work for me?** which I think is a critical piece missed in a lot of short-form content like click-bait articles, TikTok and Instagram posts. There is a lot of *discernment* in the approach (this is 100% going to be one of my words of 2021.) 
 
