@@ -37,3 +37,5 @@ What impressed me about Precision Nutrition and why I decided to go with their c
 I’m not here to invent new recipes, take pictures of supplements, or help you lose 10 pounds in a month! I’m here to help you analyze what it is you want out of life and make lifestyle changes to get there. In doing so, you will come to see how you are actively changing the world around you — for good. 
 
 How we get there is unique to you (Individuality is my first Pillar), but if my story tells you anything about the experience, it’s that you’ll find more purpose and success than you could have ever imagined. You don’t have to become obsessed with food and nutrition, but you should become obsessed with living your best life. <3 
+
+ ![A Picture of Me](./IMG_2652.jpeg) 
