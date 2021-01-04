@@ -4,6 +4,8 @@ Like many of you, Martin and I had so much time together that we decided to real
 
 We are also very fortunate to have not skipped a beat when it comes to working this whole year. We pivoted to working from home (out of our tiny apartment) in early March and that hasn’t changed (except we moved!) and doesn’t look like it will any time soon. We are grateful to have both found ourselves embracing technology that was so clearly vital in this major shift in the world and we’ve been able to help others do the same for their businesses and livelihoods. 
 
+![Seeing Seattle by boat!](./IMG_3316.jpeg)
+
 With all of that in mind, our day to day was pretty wonderful. We cooked even more than in years past, Olive has gotten spoiled with all of the attention and we explored so many unknown paths in our neighborhood on foot. We called more friends and family and we have had countless honest and raw conversations about how we were living our life once forced to take a pause. 
 
 A common theme of this year has been “high highs and low lows” and our experience is right in line with that. Our day to day was overall very pleasant and there is something to be said about learning to be content with so much less. But this was all under an umbrella of uncertainty and learning that the things we all lost this year like Freedom and Connection are truly priceless. 
@@ -27,33 +29,39 @@ I feel like I noticed spring for the first time in years. Growing up I always re
 
 My parents and I were able to safely visit my brother in Montana.  Besides my friend Jess’s bachelorette party in February in Colorado, that was my only major travel of the year. We had many trips planned to Astoria for wedding planning but ended up having only one in both January and February. All trips involved a lot of nature, good food and laughs. The most important thing was being surrounded by people who I care about deeply and making memories. 
 
+![Cody fishing in Bozeman](./IMG_6173.jpeg)
+
 Summer involved some exceptional hiking and backpacking (I always resolve to do more the following year!) and I got to celebrate my own bachelorette, virtually. It was the first day since the pandemic started that I really felt like a bride and it was a huge reminder that near and far, I am surrounded by the **best** girlfriends I could have ever hoped for. 
+
+![Hiking near Mt. Rainier](./IMG_6327.jpeg)
 
 We also moved into our first home in our dream neighborhood in Seattle. This 100 year old bungalow really upgraded our work from home situation and making it feel just as we want has been one of the greatest joys of the year. After one round of serious decorating, a huge focus of the first quarter of this year is Cleansing and Refreshing this space. We read The Life-Changing Magic of Tidying Up last year and then moved and were showered in gifts so it’s time to go back and do some tidying! 
 
 And of course the best week of 2020 was our wedding. We are so fortunate that after months of deliberation and changed plans, we were able to safely have our families and my grandparents attend our wedding ceremony. The day was more special and intimate then we could have ever imagined and I can’t wait to tell the story to future children. I’m hopeful that we will be able to have a reception in fall 2021, but there is no doubting that October 10th, 2020 was **our** day. It was so powerful and romantic. If you are an engaged couple caught in the uncertainty of what to do right now, if you want to get married, have the micro-ceremony. It’s seriously so emotional, part of me wonders why we ever bother with the pomp and circumstance of the larger events. And you can always throw a party later!
 
+![Best Day of 2020](./Breanne and Martin - Wedding Day-145.jpg)
+
 Life Lessons 
 
 I got some feedback from friends on lessons learned this year and have a few of my own. Some are more serious than others (I think a lot of the serious ones for myself I already recorded above) but I hope you enjoy some of these. 
 
-Baking soda has almost infinite uses in the home 
-Not commuting 5 times a week = more sleep and personal time 
-It’s ok to accept support from friends and loved ones
-We can color and cut our own hair!
-Being married is the best part of wedding planning
-Joy is a mental choice independent of external factors  
-Walking in nature is great therapy 
-D&D still works really well virtually 
-Reading can substitute for travel if it’s the right book
-The feeling of “coming home” is really nice and I miss it from just “being home” 
-The LOTR movies are great at Christmas 
-Nature does really well when humans slow down 
-When it comes to your financial transactions, unfortunately you have to be the one to make sure they are completed correctly. Trust no one else. 
-Games where you accuse people of lying are the best (Secret Hitler, Among Us, etc.) 
-How to make: a turkey, sourdough cinnamon rolls, ramen noodles, grilled corn, perfectly barbecued chicken breast, honey infusions for cocktails, great homemade margaritas, tasty food from frozen ingredients, dried herbs, vegan BLTs, bacon vinaigrette, and a double chocolate layer cake
-Gravy is the best Thanksgiving side dish hands down
-No amount of evidence can sway some people to see Truth 
-Bumbuu 
-Dedicating 90+ days now to building a habit will serve you over the course of a year
-That so many “obligations” we put on ourselves are meaningless. Do what you want to.
+1. Baking soda has almost infinite uses in the home 
+2. Not commuting 5 times a week = more sleep and personal time 
+3. It’s ok to accept support from friends and loved ones
+4. We can color and cut our own hair!
+5. Being married is the best part of wedding planning
+6. Joy is a mental choice independent of external factors  
+7. Walking in nature is great therapy 
+8. D&D still works really well virtually 
+9. Reading can substitute for travel if it’s the right book
+10. The feeling of “coming home” is really nice and I miss it from just “being home” 
+11. The LOTR movies are great at Christmas 
+12. Nature does really well when humans slow down 
+13. When it comes to your financial transactions, unfortunately you have to be the one to make sure they are completed correctly. Trust no one else. 
+14. Games where you accuse people of lying are the best (Secret Hitler, Among Us, etc.) 
+15. How to make: a turkey, sourdough cinnamon rolls, ramen noodles, grilled corn, perfectly barbecued chicken breast, honey infusions for cocktails, great homemade margaritas, tasty food from frozen ingredients, dried herbs, vegan BLTs, bacon vinaigrette, and a double chocolate layer cake
+16. Gravy is the best Thanksgiving side dish hands down
+17. No amount of evidence can sway some people to see Truth 
+18. Bumbuu 
+19. Dedicating 90+ days now to building a habit will serve you over the course of a year
+20. That so many “obligations” we put on ourselves are meaningless. Do what you want to.
