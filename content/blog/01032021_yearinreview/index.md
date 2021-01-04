@@ -1,3 +1,8 @@
+---
+title: "Final 2020 Reflections: Bring on the New Year"
+date: "2021-01-03"
+---
+
 Welcome to 2021! Even the “1” number makes this year feel so hopeful — like we’re all stepping forward into something truly fresh and new. I tried to say a few words about 2020 on Instagram this weekend, but frankly I have so many thoughts and lessons that I wanted to actually get down on a real blog post. In fact, in starting to do some serious debriefing and planning for the new year, this is going to be multiple blog posts. 
 
 Like many of you, Martin and I had so much time together that we decided to really take a deep look at many aspects of our lives. It caused us to build new systems and habits, take on new hobbies, really take a look at our spending, and we’re so grateful that we got to spend so much time together this year: possibly the most for the foreseeable future! It was definitely the most time in the years that we have known each other. It was a magical thing to experience while being engaged. 
