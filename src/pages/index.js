@@ -83,42 +83,6 @@ const IndexPage = () => (
     </div>
 
 
-    <div className="section contact-form">
-      <div className="container">
-        <h1 className="title">
-          Pricing
-        </h1>
-
-        <div className="columns">
-
-          <div className="column">
-            <b>
-              What you receive
-            </b>
-
-            <ul>
-              <li>- 30 minute check in calls once a week moving forward</li>
-              <li>- Customized resources based on individual needs</li>
-              <li>- Access to Precision Nutrition materials</li>
-              <li>- Online quick responses and support</li>
-              <li>- New Four Corners content as it becomes available</li>
-            </ul>
-          </div>
-
-          <div className="column">
-            {/*
-            <b> Pricing </b>
-            <p> 1 month package starting at $150 </p>
-            */}
-            Currently not taking individual clients but if you are interested in a 2020 summer, small group accountability (max. 8 people) please email bre@fourcorners.life or submit your email in the form below.
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-
   </Layout>
 )
 
