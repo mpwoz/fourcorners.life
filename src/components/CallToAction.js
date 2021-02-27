@@ -30,7 +30,7 @@ const ContactForm = () => {
           <div className="response" id="mce-success-response" style={displayNone}/>
         </div>
         <div style={absolutStyle} aria-hidden="true"><input type="text" name="b_52a6579ea33cdf370cfbe0663_a77d62c0ac"
-                                                            tabIndex="-1" value=""/></div>
+                                                            tabIndex="-1" defaultValue=""/></div>
       </form>
     </div>
   );
