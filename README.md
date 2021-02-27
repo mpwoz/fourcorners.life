@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mpwoz/fourcorners.life.svg?branch=master)](https://travis-ci.org/mpwoz/fourcorners.life)
+
 ## 🚀 Quick start
 
 1.  **Start developing.**
