@@ -65,7 +65,7 @@ const NavBar = () => {
 
       <div className="navbar-end">
         <a className="navbar-item"
-           href="https://www.instagram.com/breannewozniewicz/"
+           href="https://www.instagram.com/fourcornershealth/"
            target="_blank"
         >
           <Instagram strokeWidth={.5} size={32}/>
