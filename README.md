@@ -7,6 +7,12 @@
     Navigate into site’s directory and start it up.
 
     ```sh
+    npm run develop
+    ```
+    
+    OR
+    
+    ```sh
     gatsby develop
     ```
 

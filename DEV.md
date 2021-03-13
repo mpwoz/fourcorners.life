@@ -4,6 +4,11 @@
 https://travis-ci.org/github/mpwoz/fourcorners.life/builds
 
 
+### Running local dev server
+```
+npm run develop
+```
+Then go to http://localhost:8000
 
 ### Deploying from local machine
 
