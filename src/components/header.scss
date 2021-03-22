@@ -4,10 +4,16 @@ header .navbar {
   background: $color2;
   font-size:2em;
   font-color: black;
+  position: fixed;
+  width: 100%;
 }
 
+.hero-body{
+  margin-top: 50px;
+}
 
 .logo-image {
   width: 75px;
 }
+
 
